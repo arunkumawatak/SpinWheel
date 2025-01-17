@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432862384482",
+    "project_id": "spinwheelbyarun",
+    "storage_bucket": "spinwheelbyarun.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432862384482:android:627942b0c6c73c8a615c3b",
+        "android_client_info": {
+          "package_name": "com.example.spin_wheel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPt3i2Kn7HpTcDtxtFvzkaHtBTT8yg-5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
