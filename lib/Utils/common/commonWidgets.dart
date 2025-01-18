@@ -48,25 +48,3 @@ InputDecoration textFieldDecoration({
         borderRadius: BorderRadius.circular(25)),
   );
 }
-
-// BoxDecoration commonBoxDecoration(
-//     {Color? color,
-//     BorderRadius? borderRadius,
-//     Color? borderColor,
-//     bool? shadow,
-//     Color? shadowColor,
-//     double? spreadRadius}) {
-//   return BoxDecoration(
-//     color: color ?? primaryColor,
-//     borderRadius: borderRadius ?? BorderRadius.circular(25),
-//     border: Border.all(width: 1, color: borderColor ?? Colors.transparent),
-//     boxShadow: [
-//       if (shadow == true)
-//         BoxShadow(
-//           color: shadowColor ?? lightGrey,
-//           blurRadius: 8.0, // soften the shadow
-//           spreadRadius: spreadRadius ?? 1.0, //extend the shadow
-//         )
-//     ],
-//   );
-// }
